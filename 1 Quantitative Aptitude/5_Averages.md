@@ -20,7 +20,7 @@ Average = (1+2+3+...+10)/10 = 55/10 = 5.5
 * C) 42
 * D) 50
 
-**✅ Answer:** D) 50
+**✅ Answer:** C) 42
 **📘 Explanation:**
 Total age of 5 people = 30×5 = 150
 New total = 32×6 = 192 → New person’s age = 192 – 150 = 42
