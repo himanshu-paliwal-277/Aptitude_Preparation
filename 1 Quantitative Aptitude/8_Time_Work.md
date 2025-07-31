@@ -13,6 +13,9 @@ A's 1 day work = 1/20, B's = 1/30
 Together = 1/20 + 1/30 = (3 + 2)/60 = 5/60 = 1/12
 → Time = 12 days
 
+Rate= Time / Work
+​
+
 ---
 
 ### 2. A and B can complete a piece of work in 8 days. B alone can complete it in 12 days. How long will A take alone?

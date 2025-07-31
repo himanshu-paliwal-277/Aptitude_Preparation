@@ -19,7 +19,7 @@
 * C) C
 * D) B
 
-**✅ Answer:** A) E
+**✅ Answer:** C) C
 **📘 Explanation:** Draw circle and position everyone step-by-step.
 
 ---

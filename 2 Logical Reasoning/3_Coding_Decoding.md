@@ -1,5 +1,14 @@
 ## Coding-Decoding
 
+## Trick:
+
+```
+E J  O  T  Y
+5 10 15 20 25
+```
+
+!["Trick Image"](../assets/alphabetToNumber.png)
+
 ### 1. If in a certain code, FISH is written as GJTI, how is STAR written in that code?
 
 - A) TUBS
@@ -7,8 +16,8 @@
 - C) TCBQ
 - D) TUBR
 
-**✅ Answer:** B) TUBQ
-**📘 Explanation:** Each letter is shifted +1: S→T, T→U, A→B, R→Q
+**✅ Answer:** A) TUBS
+**📘 Explanation:** Each letter is shifted +1: S→T, T→U, A→B, R→S
 
 ---
 
@@ -29,9 +38,9 @@
 - A) XBVTI
 - B) XDUFD
 - C) XBZTI
-- D) XDUCH
+- D) XBUDI
 
-**✅ Answer:** D) XDUCH
-**📘 Explanation:** Each letter is incremented by 1 except the middle letter, which is decremented by 1.
+**✅ Answer:** D) XBUDI
+**📘 Explanation:** Each letter is incremented by 1, so final code = 'XBUDI'
 
 ---

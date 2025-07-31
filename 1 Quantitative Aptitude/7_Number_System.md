@@ -7,9 +7,9 @@
 - C) 240
 - D) 180
 
-**✅ Answer:** B) 120
+**✅ Answer:** A) 60
 **📘 Explanation:**
-LCM of 12, 15, and 20 = 60 → 2² × 3 × 5 = 120
+LCM of 12, 15, and 20 = 60 → 2² × 3 × 5 = 60
 
 ---
 
