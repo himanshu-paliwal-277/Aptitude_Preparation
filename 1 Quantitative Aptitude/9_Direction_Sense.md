@@ -35,7 +35,7 @@ Length of faster train = 250 – 180 = 70 m
 - C) 12 min
 - D) 15 min
 
-**✅ Answer:** B) 12 min
+**✅ Answer:** C) 12 min
 **📘 Explanation:**
 Relative speed = 8 – 5 = 3 km/h = 3000 m/h
 Time = Distance / Speed = 600 / 3000 = 1/5 hour = 12 min
