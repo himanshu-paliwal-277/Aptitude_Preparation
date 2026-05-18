@@ -31,7 +31,7 @@
 * C) ₹500
 * D) ₹550
 
-**✅ Answer:** B) ₹450
+**✅ Answer:** A) ₹450
 **📘 Explanation:** Loss = 10% of 500 = ₹50; SP = CP – Loss = 500 – 50 = ₹450
 
 ---
