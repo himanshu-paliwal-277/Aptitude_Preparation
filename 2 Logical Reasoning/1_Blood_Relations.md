@@ -26,12 +26,12 @@
 
 ### 3. Introducing a man, Neha said, "He is the husband of my mother’s only daughter." How is the man related to Neha?
 
-* A) Father
+* A) Husband
 * B) Brother
 * C) Uncle
 * D) Brother-in-law
 
-**✅ Answer:** A) Father
-**📘 Explanation:** Neha’s mother’s only daughter is Neha herself. So the man is her husband, i.e., Neha’s father.
+**✅ Answer:** A) Husband
+**📘 Explanation:** Neha’s mother’s only daughter is Neha herself. So the man is her husband, i.e.
 
 ---
